@@ -1,0 +1,7 @@
+nmap gD :action GotoImplementation<CR>
+:imap jj <Esc>
+set surround
+set clipboard+=ideaput
+set relativenumber
+set number
+set ideajoin
